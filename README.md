@@ -4,4 +4,4 @@
 
 ### HOW TO USE
 
-https://cdn.jsdelivr.net/gh/caococos/resource-set@v1.1.0/img/文件名.png
+https://cdn.jsdelivr.net/gh/caococos/resource-set@master/img/Elis.jpg
